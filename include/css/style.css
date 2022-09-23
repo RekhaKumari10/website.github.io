@@ -1,0 +1,43 @@
+body{
+   
+    margin: 0px;
+    padding: 0px;
+}
+.top{
+    background-color:#5fcf80; 
+}
+.top marquee{
+    color: white;
+    font-weight: 400;
+}
+.navbar{
+
+    font: weight 10px;
+}
+.nav-link :hover{
+    color: rgb(47, 161, 236);
+    background-color:#5fcf80;
+   
+}
+
+h4{
+    color: rgb(47, 161, 236); 
+}
+h1{
+    color:#5fcf80;
+}
+h2{
+    color:white; 
+}
+.head_top{
+    background-color:#5fcf80;
+    height:80px; 
+}
+.fee{
+    background-color:rgb(47, 161, 236); 
+    height:50px;
+   
+}
+.fee_stuc{
+    background-color:#5fcf80;
+}
